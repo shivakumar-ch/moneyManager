@@ -1,0 +1,47 @@
+img {
+  width: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.balance-card {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #ecfccb;
+  border: 2px solid #84cc16;
+  border-radius: 10px;
+  height: 80px;
+  margin-right: 8px;
+}
+.income-card {
+  margin-top: 8px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #cffafe;
+  border: 2px solid #06b6d4;
+  border-radius: 10px;
+  height: 80px;
+}
+.expense-card {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #ede9f6;
+  border: 2px solid #7c3aed;
+  border-radius: 10px;
+  height: 80px;
+}
+.money-card-div {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  border-radius: 10px;
+}
